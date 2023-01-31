@@ -37,3 +37,19 @@ We will be using Python for this course for a few reasons:
 - Has an incredibly supportive community
   ([Discord](https://www.notion.so/Course-Overview-ec46aaba5d134b25b7ba1e901edc1972),
   [Reddit](https://www.notion.so/Course-Overview-ec46aaba5d134b25b7ba1e901edc1972)).
+
+## What Will We Learn in this Course?
+
+This course is designed for complete beginners to programming. We will assume
+you can perform basic tasks on a computer such as using a web browser but we
+won’t assume any previous knowledge about programming.
+
+We will cover the following fundamental programming concepts:
+
+- Data types
+- Variables
+- Operators
+- User Interaction
+- Conditionals
+- Functions
+- Looping
